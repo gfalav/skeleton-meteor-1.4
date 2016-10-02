@@ -30,3 +30,4 @@ useraccounts:bootstrap
 accounts-ui
 underscore
 momentjs:moment
+arillo:flow-router-helpers
